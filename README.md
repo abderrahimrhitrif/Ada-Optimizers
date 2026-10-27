@@ -27,10 +27,3 @@ This project provides from-scratch implementations and comparative experiments o
 ```bash
 jupyter notebook Ada.ipynb
 ```
-
-## CV Bullet Points
-- Implemented adaptive gradient optimization algorithms (AdaGrad) from scratch using NumPy and evaluated convergence on the MNIST dataset.
-- Developed custom training and gradient update loops without high-level framework abstractions, deepening understanding of neural network optimization mechanics.
-
-## Claims to Avoid
-- Do not claim production optimizer library development or superior performance over standard PyTorch/TensorFlow optimizers.
